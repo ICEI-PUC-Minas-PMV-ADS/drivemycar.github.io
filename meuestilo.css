@@ -267,8 +267,8 @@ input[type="submit"]:hover{
   font-weight: bold;
 }
 
-p99 {
-  font-size: 36px;
+p_pre {
+  font-size: 30px;
   color: #ff0000;
   padding: 10px 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
